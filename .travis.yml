@@ -1,2 +1,2 @@
 language: java
-script: ant j2se_travis
+script: ant j2se
